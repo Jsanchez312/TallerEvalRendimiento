@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script de Análisis de Resultados - Taller de Evaluación de Rendimiento
-Autores: Juan David Garzon Ballen, Juan Pablo Sanchez
+Autores: Juan Pablo Sánchez, Juan David Garzon Ballen
 Pontificia Universidad Javeriana - Sistemas Operativos
 """
 
