@@ -24,20 +24,28 @@ Proyecto de evaluación de rendimiento que compara diferentes implementaciones d
 ## Estructura del Proyecto
 
 ```
-Entrega
+TallerEvalRendimiento/
 │
-├── mmCommon.h                         # Interfaz
-├── mmCommon.c                         # Biblioteca
-├── mmClasicaFork.c                    # Principal Fork
-├── mmClasicaPosix.c                   # Principal Pthreads
-├── mmClasicaOpenMP.c                  # Principal OpenMP
-├── mmFilasOpenMP.c                    # Principal Transpuesta
-├── Makefile                           # Compilación
-├── lanzador.pl                        # Script Perl (documentado)
-├── ejecutar_todas_pruebas.sh          # Script Bash
-├── analizar_resultados.py             # Script Python
-├── README.md                          # Instrucciones
-└── Informe_Taller_Rendimiento.pdf     # Documento final
+├── README.md                          # 📘 Documentación principal
+│
+├── src/                               # 💻 Código fuente
+│   ├── mmCommon.h                     # Interfaz de biblioteca
+│   ├── mmCommon.c                     # Implementación de funciones comunes
+│   ├── mmClasicaFork.c                # Implementación con fork()
+│   ├── mmClasicaPosix.c               # Implementación con pthreads
+│   ├── mmClasicaOpenMP.c              # Implementación con OpenMP clásico
+│   ├── mmFilasOpenMP.c                # Implementación con OpenMP transpuesta
+│   └── Makefile                       # Script de compilación
+│
+├── scripts/                           # 🔧 Scripts de automatización
+│   ├── ejecutar_todas_pruebas.sh      # Ejecución automatizada
+│   ├── analizar_resultados.py         # Análisis y generación de gráficas
+│   └── lanzador.pl                    # Script Perl legacy
+│
+├── docs/                              # 📄 Documentación
+   └── TallerEvalRendimiento.pdf      # Informe técnico completo
+
+
 ```
 
 ---
@@ -53,6 +61,7 @@ Entrega
 ```bash
 make clean
 make all
+make setup (necesario para ejecutar scripts)
 ```
 
 ### Verificar compilación
