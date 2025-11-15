@@ -226,8 +226,8 @@ gcc --version
 ## Contacto
 
 **Autores:**
-- Juan David Garzon Ballen: jd.garzonb@javeriana.edu.co
 - Juan Pablo Sanchez: sanchez.jp@javeriana.edu.co
+- Juan David Garzon Ballen: jd.garzonb@javeriana.edu.co
 
 **Institución:** Pontificia Universidad Javeriana
 **Materia:** Sistemas Operativos
