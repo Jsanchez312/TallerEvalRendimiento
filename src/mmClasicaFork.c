@@ -1,8 +1,8 @@
 /*#######################################################################################
 #* Pontificia Universidad Javeriana
 #* Fecha: Noviembre 2025
-#* Autores: Juan David Garzon Ballen
-#*          Juan Pablo Sanchez
+#* Autores: Juan Pablo Sanchez
+#*          Juan David Garzon Ballen
 #* Materia: Sistemas Operativos
 #* Tema: Taller de Evaluación de Rendimiento
 #* Programa: Multiplicación de Matrices - Algoritmo Clásico con Fork
