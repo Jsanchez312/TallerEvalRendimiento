@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #**************************************************************
 #         	Pontificia Universidad Javeriana
-#     Autores: Juan David Garzon Ballen, Juan Pablo Sanchez
+#     Autores: Juan Pablo Sanchez, Juan David Garzon Ballen
 #     Fecha: Noviembre 2025
 #     Materia: Sistemas Operativos
 #     Tema: Taller de Evaluación de Rendimiento
