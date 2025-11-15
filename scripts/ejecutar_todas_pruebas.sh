@@ -1,7 +1,7 @@
 #!/bin/bash
 #######################################################################
 # Script para ejecutar todas las pruebas del taller
-# Autores: Juan David Garzon Ballen, Juan Pablo Sanchez
+# Autores: Juan Pablo Sanchez, Juan David Garzon Ballen
 #######################################################################
 
 echo "=========================================="
