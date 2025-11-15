@@ -4,7 +4,7 @@
 
 # Taller de Evaluación de Rendimiento
 
-**Autores:** Juan David Garzon Ballen, Juan Pablo Sanchez
+**Autores:** Juan Pablo Sanchez, Juan David Garzon Ballen
 **Universidad:** Pontificia Universidad Javeriana
 **Materia:** Sistemas Operativos
 **Fecha:** Noviembre 2025
